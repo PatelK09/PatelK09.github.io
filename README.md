@@ -54,9 +54,9 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
             >       cd <username>.github.io
             >```
     >* Build the site using following command. 
-    >```
-    >       bundle exec jekyll serve
-    >```
+            >```
+            >       bundle exec jekyll serve
+            >```
     >* Open the browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output.   
       
         
