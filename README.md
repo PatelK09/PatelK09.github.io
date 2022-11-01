@@ -46,17 +46,17 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     > 
     >* Open cmd and navigate to the directory in which you want to create your site.
     >* Use the following command to create a new Jekyll site. (replace username with your GitHub username)  
-                >```
-                >       jekyll new <username>.github.io
-                >``` 
+    >```
+    >       jekyll new <username>.github.io
+    >``` 
     >* Change into your new directory using following command.  
-            >```
-            >       cd <username>.github.io
-            >```
+    >```
+    >       cd <username>.github.io
+    >```
     >* Build the site using following command. 
-            >```
-            >       bundle exec jekyll serve
-            >```
+    >```
+    >       bundle exec jekyll serve
+    >```
     >* Open the browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output.   
       
         
