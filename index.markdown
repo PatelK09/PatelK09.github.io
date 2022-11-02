@@ -19,7 +19,7 @@ layout: default
 ---
 **Event Driven Simulation**, C++ (Academic Project) *(March 2022)*
 * A discrete-event simulation to simulate a restaurant chef handling food order. Three 
-different simulations to handle food Orders
+different simulations to handle food orders.
 * Accomplished using all the facilities for doing Object Orientation in C++ like appropriate 
 use of abstract classes and methods, and safe dynamic casting and each class have 
 separate implementation from its interface.
@@ -45,7 +45,7 @@ design and structure the tables in most efficient way.
 * User can watch the cell grow and change over the generation and can detect is there is 
 any cycle in generations.
 * Using Command line arguments to take input of filename in which initial configuration of 
-live cells is given  
+live cells is given.
 
 ## Project  
 ---
@@ -93,4 +93,4 @@ experience with various engines, software, and consoles.
 
 **CSSA**, *(May 2021 - Present)*  
 * CSSA help support the needs of all computer science students and amplify the voices of 
-computer science students within the wider University of Manitoba community
+computer science students within the wider University of Manitoba community.
