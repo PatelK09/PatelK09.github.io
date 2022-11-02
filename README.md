@@ -4,6 +4,7 @@
 * [Purpose](#purpose)
 * [Prerequisites](#prerequisites)
 * [Instructions](#instructions)
+* [More Recources](#more-recources)
 * [Authors and Acknowledgments](#authors-and-acknowledgments)
 * [FAQs](#faqs)
 
