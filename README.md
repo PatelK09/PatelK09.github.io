@@ -37,9 +37,10 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     > * Name the repository in `<username>.github.io`, this format should be followed to host your resume. (replace username with your GitHub username)
     > * Select the `public` option for visibility of the repository.
     > * Select `Add a README file under *Initialize this repository with*.
-    > * Click on `Create Respository` button and your repository is created.  
-    
-    [](/images/New%20Repository.gif)  
+    > * Click on `Create Respository` button and your repository is created.    
+    >  
+    >    ![](images/New%20Repository.gif)   
+
 
 **2. Create a local static site**  
 
