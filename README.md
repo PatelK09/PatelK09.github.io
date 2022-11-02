@@ -4,7 +4,6 @@
 * [Purpose](#purpose)
 * [Prerequisites](#prerequisites)
 * [Instructions](#instructions)
-* [More Recources](#more-recources)
 * [Authors and Acknowledgments](#authors-and-acknowledgments)
 * [FAQs](#faqs)
 
@@ -16,10 +15,14 @@ This README describes the practical steps from Andrew Etter's book Modern Techni
 
 For this tutorial, you will need:  
 **1. Resume**     
-- You will need a resume in markdown format. Here is the link to a [quick tutorial](https://helloacm.com/markdown-markup-language-quick-tutorial/) on markdown.
+- You will need a resume in markdown format. 
 
 **2. Static Site Generator**    
-- You will need a static site generator to generate a static HTML website based on raw data and template. For this tutorial, we will be using [Jekyll](https://jekyllrb.com/) to create a static site. 
+- You will need a static site generator to generate a static HTML website based on raw data and template. For this tutorial, we will be using Jekyll to create a static site.  
+
+**3. GitHub Account**  
+- You will need a GitHub account to host your resume using GitHub Pages.
+
 
 ## Instructions
 
@@ -34,7 +37,9 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     > * Name the repository in `<username>.github.io`, this format should be followed to host your resume. (replace username with your GitHub username)
     > * Select the `public` option for visibility of the repository.
     > * Select `Add a README file under *Initialize this repository with*.
-    > * Click on `Create Respository` button and your repository is created.
+    > * Click on `Create Respository` button and your repository is created.  
+    
+    [](/images/New%20Repository.gif)  
 
 **2. Create a local static site**  
 
@@ -43,13 +48,13 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     > 
     >* Open cmd and navigate to the directory in which you want to create your site.
     >* Use the following command to create a new Jekyll site. (replace username with your GitHub username)  
-    >```
-    >       jekyll new <username>.github.io
-    >``` 
+                >```
+                >       jekyll new <username>.github.io
+                >``` 
     >* Change into your new directory using following command.  
-    >```
-    >       cd <username>.github.io
-    >```
+            >```
+            >       cd <username>.github.io
+            >```
     >* Build the site using following command. 
     >```
     >       bundle exec jekyll serve
@@ -90,18 +95,14 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
 
 *Congratulations, your website has been hosted once all the steps have been followed correctly. Just go to the link `<username>.github.io` to view your site. (replace username with your GitHub username)*  
 
-## More Recources
-
-- Markdown:     [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet), [Markdown Syntax](https://www.markdownguide.org/basic-syntax).  
-- Jekyll:   [Installation Guide](https://jekyllrb.com/docs/installation/), [Ruby101](https://jekyllrb.com/docs/ruby-101/), [Creating Static site](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).  
-- GitHub:   [New GitHub Account](https://docs.github.com/en/get-started/signing-up-for-github), [Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html), [GitHub Pages](https://pages.github.com/).
 
 ## Authors and Acknowledgments
 
-- **Author:** Khush Patel  
-- **Group Members:** Tanish sood, Juan Armijos, Chu Hao Wen  
-- **Theme Credit:** [Hacker](https://github.com/pages-themes/hacker)
-    
+    Khush Patel
+    Tanish sood
+    Juan Armijos
+    Chu Hao Wen
+    Template author
 
 ## FAQs
 **1. Why is Markdown better than a word processor?**
