@@ -16,14 +16,10 @@ This README describes the practical steps from Andrew Etter's book Modern Techni
 
 For this tutorial, you will need:  
 **1. Resume**     
-- You will need a resume in markdown format. 
+- You will need a resume in markdown format. Here is the link to a [quick tutorial](https://helloacm.com/markdown-markup-language-quick-tutorial/) on markdown.
 
 **2. Static Site Generator**    
-- You will need a static site generator to generate a static HTML website based on raw data and template. For this tutorial, we will be using Jekyll to create a static site.  
-
-**3. GitHub Account**  
-- You will need a GitHub account to host your resume using GitHub Pages.
-
+- You will need a static site generator to generate a static HTML website based on raw data and template. For this tutorial, we will be using [Jekyll](https://jekyllrb.com/) to create a static site. 
 
 ## Instructions
 
@@ -94,14 +90,18 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
 
 *Congratulations, your website has been hosted once all the steps have been followed correctly. Just go to the link `<username>.github.io` to view your site. (replace username with your GitHub username)*  
 
+## More Recources
+
+- Markdown:     [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet), [Markdown Syntax](https://www.markdownguide.org/basic-syntax).  
+- Jekyll:   [Installation Guide](https://jekyllrb.com/docs/installation/), [Ruby101](https://jekyllrb.com/docs/ruby-101/), [Creating Static site](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).  
+- GitHub:   [New GitHub Account](https://docs.github.com/en/get-started/signing-up-for-github), [Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html), [GitHub Pages](https://pages.github.com/).
 
 ## Authors and Acknowledgments
 
-    Khush Patel
-    Tanish sood
-    Juan Armijos
-    Chu Hao Wen
-    Template author
+- **Author:** Khush Patel  
+- **Group Members:** Tanish sood, Juan Armijos, Chu Hao Wen  
+- **Theme Credit:** [Hacker](https://github.com/pages-themes/hacker)
+    
 
 ## FAQs
 **1. Why is Markdown better than a word processor?**
