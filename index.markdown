@@ -5,8 +5,10 @@
 layout: default
 ---  
 ># Khush Patel 
-> 204-894-3179 • patelkb1@myumanitoba.ca • github.com/kp-09
----
+> 204-894-3179 • patelkb1@myumanitoba.ca • github.com/kp-09  
+
+---  
+
 ## Education
 ---
 **University of Manitoba**, *Bachelor of Computer Science*
