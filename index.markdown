@@ -4,8 +4,8 @@
 
 layout: default
 ---  
-# Khush Patel 
-##### 204-894-3179 • patelkb1@myumanitoba.ca • [github.com/PatelK09](https://github.com/PatelK09)
+# Khush Patel
+##### [204-894-3179](tel:2048943179) • [patelkb1@myumanitoba.ca](mailto:patelkb1@myumanitoba.ca) • [github.com/PatelK09](https://github.com/PatelK09)
 
 ---  
 
