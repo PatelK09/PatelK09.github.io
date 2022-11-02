@@ -61,7 +61,8 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >       bundle exec jekyll serve
     >```
     >* Open the browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output.   
-      
+    >
+    >  ![](images/Local%20site%20host.gif)
         
 
 **3. Locally Host your resume on that site**  
@@ -73,7 +74,9 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >```
     >       jekyll serve
     >````
-    >* Open browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output to see your resume.
+    >* Open browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output to see your resume.  
+    >
+    >   ![](images/Host%20Resume.gif)  
 
 **4. Change the theme of the site**  
 
@@ -82,6 +85,8 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >* Select a theme from the galleries.
     >* Go to that theme's GitHub page.
     >* Follow the steps shown there.  
+    >
+    >   ![](images/Change%20theme.gif)  
 
 - *For some themes you will need more understanding of different technologies to use that theme.* 
 
@@ -92,7 +97,8 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >* Add the whole site folder to the repository which is created in [step 1](#instructions). Drag and drop it on your repository or add it by selecting the `Add file` option on your repository page.
     >* Write commite message under *Commit changes* section.
     >* Click on the `Commit changes` button to add your files.
-
+    >
+    >   ![](images/Host%20on%20Git.gif)
 
 *Congratulations, your website has been hosted once all the steps have been followed correctly. Just go to the link `<username>.github.io` to view your site. (replace username with your GitHub username)*  
 
@@ -114,3 +120,5 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
 * There may be a variety of causes for this. Make sure to place your resume in the appropriate file **index.md**. For some themes, the location may change. To find the proper location, read the readme for that particular theme.  
 
 * When you update the repository, wait a few minutes before viewing your resume because it could take some time for the repository to change.
+
+[def]: images
